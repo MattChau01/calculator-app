@@ -1,0 +1,8 @@
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\matth\OneDrive\Desktop\C#\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
